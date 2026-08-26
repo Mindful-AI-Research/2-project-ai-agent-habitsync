@@ -4,7 +4,7 @@
 
 <br><br>
 
-# 🎼 HabitSync — AI Recommendation Agent  - [EXPLORATORY]()
+#   HabitSync — AI Recommendation Agent  - [EXPLORATORY]()
 ###  **An AI agent that gives couples voice-guided, explainable recommendations for training and diet products.**
 
 <br><br>
