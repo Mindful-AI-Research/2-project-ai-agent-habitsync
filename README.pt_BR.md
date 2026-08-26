@@ -74,6 +74,71 @@
 </p>
 <!-- ========= END APP BADGE ========= -->
 
+## 🎼 15. Filosofia do Projeto
+
+O HabitSync começa, em última instância, com uma simples observação humana:
+
+<br>
+
+> **Duas vidas não precisam seguir o mesmo ritmo para se moverem na mesma direção.**
+
+<br>
+
+A IA ajuda a encontrar essa direção.
+
+Não apagando as diferenças.
+
+Não impondo uniformidade.
+
+Mas compreendendo onde caminhos diferentes podem se encontrar.
+
+<br>
+
+### **Harmonia não é tornar-se igual. É aprender a se mover juntos.**
+
+<br><br>
+
+## 🎼 Referência Musical
+
+**Johann Sebastian Bach**
+*Air — Suíte Orquestral nº 3, BWV 1068*
+
+**Metáfora do projeto:**
+*Harmonia sem uniformidade.*
+
+**Filosofia do HabitSync:**
+*Pessoas diferentes. Ritmos diferentes. Uma direção compartilhada.*
+
+<br><br>
+
+## Origem Acadêmica
+
+O HabitSync surgiu como um estudo de caso acadêmico:
+
+<br>
+
+> **Assistente Inteligente de Recomendação**
+
+O projeto está evoluindo para um sistema de IA de nível produto, focado em:
+
+**Agentes de IA · Sistemas de Recomendação · IA Explicável · Interfaces de Voz · IA Centrada no Humano · IA Responsável · Governança**
+
+
+<br><br>
+
+<div align="center">
+
+𝄢
+
+**Air — Johann Sebastian Bach**
+
+*Harmonia não é tornar-se igual.*
+*É aprender a se mover juntos.*
+
+**HabitSync — Pessoas diferentes. Ritmos diferentes. Uma direção compartilhada.**
+
+</div>
+
 <br><br>
 
 ## 📚 Sumário
@@ -150,7 +215,7 @@ Um espaço harmônico compartilhado.**
 
 O movimento original se chama simplesmente **Air**. O título conhecido **Air on the G String** refere-se ao arranjo posterior associado a August Wilhelmj.
 
-Para a apresentação contemporânea do projeto, a gravação escolhida é:
+Para a apresentação contemporânea desse projeto, a versao utilizada fi:
 
 **Air on the G-String — DEEP HOUSE — REMIX**
 
@@ -160,7 +225,7 @@ A música não é apenas áudio de fundo. Ela faz parte da identidade narrativa 
 
 <br><br>
 
-## 🧠 IA Centrada no Humano
+## 🧠 IA Centrada no Humanoi
 
 A questão central por trás do HabitSync é:
 
@@ -753,75 +818,7 @@ no Google Colab.
 
 <br><br>
 
-## 🎼 15. Filosofia do Projeto
 
-O HabitSync começa, em última instância, com uma simples observação humana:
-
-<br>
-
-> **Duas vidas não precisam seguir o mesmo ritmo para se moverem na mesma direção.**
-
-<br>
-
-A IA ajuda a encontrar essa direção.
-
-Não apagando as diferenças.
-
-Não impondo uniformidade.
-
-Mas compreendendo onde caminhos diferentes podem se encontrar.
-
-### **Harmonia não é tornar-se igual.
-
-É aprender a se mover juntos.**
-
-<br><br>
-
-## 🎼 Referência Musical
-
-**Johann Sebastian Bach**
-*Air — Suíte Orquestral nº 3, BWV 1068*
-
-**Metáfora do projeto:**
-*Harmonia sem uniformidade.*
-
-**Filosofia do HabitSync:**
-*Pessoas diferentes. Ritmos diferentes. Uma direção compartilhada.*
-
-<br><br>
-
-## Origem Acadêmica
-
-O HabitSync surgiu como um estudo de caso acadêmico:
-
-<br>
-
-> **Assistente Inteligente de Recomendação**
-
-O projeto está evoluindo para um sistema de IA de nível portfólio, focado em:
-
-**Agentes de IA · Sistemas de Recomendação · IA Explicável · Interfaces de Voz · IA Centrada no Humano · IA Responsável**
-
-<br><br>
-
-## 📄 Licença
-
-**A definir**
-
-<br><br>
-
-<div align="center">
-
-𝄢
-
-**Air — Johann Sebastian Bach**
-
-*Harmonia não é tornar-se igual.*
-*É aprender a se mover juntos.*
-
-**HabitSync — Pessoas diferentes. Ritmos diferentes. Uma direção compartilhada.**
-
-</div>
 
 <br><br>
 
