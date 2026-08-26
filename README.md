@@ -1,159 +1,73 @@
-
-
-
-https://effulgent-banoffee-ed032c.netlify.app/
-
-
-
-
-# 🎼 HabitSync — Music, Meaning & Human-Centered AI
-
-> **Harmony is not becoming the same.
-> It is learning how to move together.**
-
-## 🎯 Concept
-
-**HabitSync — AI Recommendation Agent** is designed around a simple human idea: two people do not need to have the same goals, habits, routines, preferences, or dietary restrictions to move forward together.
-
-The role of the AI is not to erase those differences.
-
-It is to **understand them, reconcile them, and find meaningful compatibility**.
-
-This concept led to a musical metaphor that became part of the project's identity:
-
-> **Harmony without sameness.**
-
----
-
-## 🎼 The Musical Identity
-
-The primary musical choice for HabitSync is:
-
-**Air — Johann Sebastian Bach**
-*Orchestral Suite No. 3, BWV 1068*
-
-*Air* is a deeply contemplative work in which different musical lines coexist within a shared harmonic structure.
-
-That makes it a natural metaphor for HabitSync:
-
-**two different lines → one harmonic space**
-
-The original movement is titled simply **Air**. The familiar name **Air on the G String** refers to the later arrangement associated with August Wilhelmj.
-
-For HabitSync, the music represents the idea that **different rhythms can coexist without becoming identical**.
-
----
-
-## 🎵 Why Bach?
-
-The choice of Bach is not simply aesthetic.
-
-The project's central question is:
-
-> How can two different people find a shared direction without losing what makes each of them different?
-
-Bach's *Air* provides a poetic parallel.
-
-The goal is not **sameness**.
-
-The goal is **harmony**.
-
----
-
-## ✨ The Core Message
-
-The idea evolved through several formulations until reaching the statement that best represents HabitSync:
-
-> **We don't have to become the same
-> to move in harmony.**
-
-And, as the project's deeper philosophical statement:
-
-> **Harmony is not becoming the same.
-> It is learning how to move together.**
-
-This becomes the poetic signature of HabitSync.
-
----
-
-## 🌿 From Music to AI
-
-The musical metaphor translates directly into the architecture of the product.
-
-Two people may have:
-
-* different goals;
-* different habits;
-* different routines;
-* different dietary restrictions;
-* different preferences;
-* different limitations.
-
-HabitSync does not attempt to make their profiles identical.
-
-Instead, the AI:
-
-**understands → reconciles → evaluates → recommends**
-
-The result is a shared path that respects the individuality of both people.
-
----
-
-## 🧠 Human-Centered AI
-
-This musical identity reinforces one of the project's central principles:
-
-> **Compatibility does not require identical profiles.**
-
-A recommendation is meaningful only when it respects the reality of the people receiving it.
-
-HabitSync therefore treats differences not simply as obstacles, but as information that can help the AI find better solutions.
-
----
-
-## 🎧 Music as Part of the Experience
-
-The music is intentionally integrated into the project's presentation rather than treated as background decoration.
-
-The concept is that the music **carries the story forward**.
-
-> **The music carries the story forward. Take it with you.**
-
-This creates a connection between:
-
-**music → harmony → differences → understanding → AI → shared direction**
-
-The musical layer therefore becomes part of the project's identity and storytelling.
-
----
-
-## 💎 Final Philosophy
-
-HabitSync is ultimately based on a simple human observation:
-
-> **Two lives do not need to follow the same rhythm to move in the same direction.**
-
-The AI helps find that direction.
-
-Not by erasing differences.
-
-Not by forcing sameness.
-
-But by understanding where different paths can meet.
-
-### **Harmony is not becoming the same.
-
-It is learning how to move together.**
+# 🎼 HabitSync — AI Recommendation Agent EXPLORATORY
+###  **An AI agent that gives couples voice-guided, explainable recommendations for training and diet products.**
 
 <br><br>
 
-## 🎼 Musical Reference
+> 🚧 **Academic MVP — validated.** Full production-grade documentation, backend, and web app are part of an active, phased roadmap.
 
-**Johann Sebastian Bach**
-*Air — Orchestral Suite No. 3, BWV 1068*
+<br><br>
 
-**Project metaphor:**
-*Harmony without sameness.*
 
-**HabitSync philosophy:**
-*Different people. Different rhythms. A shared direction.*
+<!-- ========= START APP BADGE ========= -->
+<p align="center" style="margin: 0;">
+  <a href="https://effulgent-banoffee-ed032c.netlify.app/" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Live%20App-HabitSync-0f172a?style=for-the-badge&logo=netlify&logoColor=white" 
+      alt="Live App HabitSync"
+      style="height: 38px; width: auto;"
+    />
+  </a>
+</p>
+<!-- ========= END APP BADGE ========= -->
+
+
+
+<br><br>
+
+## 📚 Table of Contents
+
+- [🎯 What is HabitSync?](#-what-is-habitsync)
+- [🎼 Music, Meaning & Human-Centered AI](#-music-meaning--human-centered-ai)
+  - [🎼 The Musical Identity](#-the-musical-identity)
+  - [🧠 Human-Centered AI](#-human-centered-ai)
+  - [✨ The Core Message](#-the-core-message)
+- [🔍 How the Recommendation Engine Works](#-how-the-recommendation-engine-works)
+- [🏗️ Phase 2 — Complete Architecture: NewVoiceHabits](#️-phase-2--complete-architecture-newvoicehabits)
+  - [System Architecture](#system-architecture)
+  - [Core Recommendation Pipeline](#core-recommendation-pipeline)
+- [📊 Conceptual Data Model](#-conceptual-data-model)
+- [🧩 Components and Modules](#-components-and-modules)
+- [📁 Proposed Project Structure](#-proposed-project-structure)
+- [🌎 Bilingual Architecture — PT-BR / EN](#-bilingual-architecture--pt-br--en)
+- [🌐 Web Evolution — Conceptual Routes](#-web-evolution--conceptual-routes)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [🔄 MVP × Evolution Mapping](#-mvp--evolution-mapping)
+- [🛡️ Responsible AI](#️-responsible-ai)
+- [🔐 Safety-First Recommendation Logic](#-safety-first-recommendation-logic)
+- [⚡ Quick Start](#-quick-start)
+- [🚧 Project Status](#-project-status)
+- [🌱 Roadmap](#-roadmap)
+- [🎼 Project Philosophy](#-project-philosophy)
+- [📜 Academic Origin](#-academic-origin)
+- [📄 License](#-license)
+
+---
+
+## 🎯 What is HabitSync?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
