@@ -7,6 +7,55 @@
 
 <br><br>
 
+<!-- ========= START SPONSOR BADGE ========= -->
+<p align="center">
+  <a href="https://github.com/sponsors/Mindful-AI-Research">
+    <img src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90%20%E2%8B%86-00FFFF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor ॐ ⋆ Mindful AI ⋆ Research & Consulting 𖤐 ⋆">
+  </a>
+</p>
+
+
+<br><br>
+<!-- ========= END SPONSOR BADGE ========= -->
+
+<!-- =========  START PUC HEADER GIF ========= -->
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
+ </p>
+
+<br><br>
+<!-- =========  END PUC HEADER GIF ========= -->
+
+<!-- ======================================= Start Institucional INFOR =========================================== -->
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
+[**School:**]() FACEI — Computer Science Department  <br>
+[**Course:**]() BSc in Human-Centered AI & Data Science • 6th Semester • 2026 <br>
+[**Subject:**](): Artificial Intelligence Knowledge Systems & Intelligent Agents  <br>
+**Prof. Dr.:** ✨ [Sandra Muniz Bozolan]() <br>
+**Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
+
+<br><br>
+
+#
+
+<br><br>
+<!-- ======================================= SZEnd Institutional INFO ===========================================  -->
+
+<!-- ========= START!WARNING ========= -->
+> [!WARNING]
+>
+> ⚠️ Projects may be publicly shared when permitted.  
+> The focus is on applied, hands-on learning with real datasets in AI governance and security contexts.  
+> All sensitive content remains protected in private repositories when required.
+>
+
+<br><br>
+
+#
+
+<br><br>
+<!-- ========= END!WARNING ========= -->
+
 
 <!-- ========= START APP BADGE ========= -->
 <p align="center" style="margin: 0;">
