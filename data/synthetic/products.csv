@@ -1,0 +1,29 @@
+product_id,category,subcategory,brand,price,currency,ingredients,allergens,description,tags,availability,is_synthetic
+P001,protein,whey,VitaFit,175.54,BRL,generic whey formula,lactose,Whey product for protein goals,"#gluten_free,#low_sugar,#vegetarian",True,True
+P002,protein,vegan_protein,PureNutri,73.41,BRL,generic vegan protein formula,none,Vegan Protein product for protein goals,"#gluten_free,#lactose_free,#low_sugar,#vegan,#vegetarian",True,True
+P003,equipment,resistance_bands,BalancePlus,116.39,BRL,N/A (non-food item),none,Resistance Bands product for equipment goals,none,True,True
+P004,vitamins,multivitamin,PureNutri,69.42,BRL,generic multivitamin formula,none,Multivitamin product for vitamins goals,"#gluten_free,#lactose_free,#vegetarian",True,True
+P005,protein,whey,GreenGain,205.54,BRL,generic whey formula,lactose,Whey product for protein goals,"#gluten_free,#vegetarian",True,True
+P006,equipment,resistance_bands,IronCore,38.02,BRL,N/A (non-food item),none,Resistance Bands product for equipment goals,none,True,True
+P007,equipment,yoga_mat,BalancePlus,64.13,BRL,N/A (non-food item),none,Yoga Mat product for equipment goals,none,True,True
+P008,creatine,creatine_hcl,IronCore,83.83,BRL,generic creatine hcl formula,none,Creatine Hcl product for creatine goals,"#gluten_free,#lactose_free,#vegetarian",True,True
+P009,vitamins,multivitamin,VitaFit,160.0,BRL,generic multivitamin formula,soy,Multivitamin product for vitamins goals,"#gluten_free,#lactose_free,#vegan,#vegetarian",True,True
+P010,creatine,creatine_monohydrate,BalancePlus,70.41,BRL,generic creatine monohydrate formula,none,Creatine Monohydrate product for creatine goals,"#gluten_free,#lactose_free,#vegetarian",True,True
+P011,protein,isolate,VitaFit,68.43,BRL,generic isolate formula,none,Isolate product for protein goals,"#gluten_free,#lactose_free,#vegetarian",False,True
+P012,vitamins,multivitamin,PureNutri,80.82,BRL,generic multivitamin formula,soy,Multivitamin product for vitamins goals,"#gluten_free,#lactose_free,#vegetarian",True,True
+P013,equipment,dumbbell_set,GreenGain,191.71,BRL,N/A (non-food item),none,Dumbbell Set product for equipment goals,none,True,True
+P014,equipment,yoga_mat,GreenGain,70.34,BRL,N/A (non-food item),none,Yoga Mat product for equipment goals,none,False,True
+P015,equipment,yoga_mat,VitaFit,193.73,BRL,N/A (non-food item),none,Yoga Mat product for equipment goals,none,True,True
+P016,creatine,creatine_monohydrate,IronCore,156.95,BRL,generic creatine monohydrate formula,none,Creatine Monohydrate product for creatine goals,"#gluten_free,#lactose_free,#low_sugar,#vegetarian",True,True
+P017,vitamins,omega_3,BalancePlus,192.6,BRL,generic omega 3 formula,none,Omega 3 product for vitamins goals,"#gluten_free,#lactose_free,#low_sugar,#vegetarian",True,True
+P018,vitamins,multivitamin,GreenGain,243.43,BRL,generic multivitamin formula,soy,Multivitamin product for vitamins goals,"#gluten_free,#lactose_free,#low_sugar,#vegan,#vegetarian",True,True
+P019,equipment,resistance_bands,GreenGain,213.48,BRL,N/A (non-food item),none,Resistance Bands product for equipment goals,none,True,True
+P020,creatine,creatine_monohydrate,BalancePlus,231.15,BRL,generic creatine monohydrate formula,none,Creatine Monohydrate product for creatine goals,"#gluten_free,#lactose_free,#vegan,#vegetarian",True,True
+P021,healthy_food,snack_bar,GreenGain,74.97,BRL,generic snack bar formula,none,Snack Bar product for healthy food goals,"#gluten_free,#lactose_free,#vegetarian",True,True
+P022,equipment,resistance_bands,VitaFit,188.24,BRL,N/A (non-food item),none,Resistance Bands product for equipment goals,none,True,True
+P023,equipment,resistance_bands,PureNutri,171.64,BRL,N/A (non-food item),none,Resistance Bands product for equipment goals,none,False,True
+P024,creatine,creatine_hcl,BalancePlus,193.61,BRL,generic creatine hcl formula,none,Creatine Hcl product for creatine goals,"#gluten_free,#lactose_free,#vegetarian",True,True
+P025,vitamins,vitamin_d,PureNutri,71.58,BRL,generic vitamin d formula,soy,Vitamin D product for vitamins goals,"#gluten_free,#lactose_free,#vegetarian",True,True
+P901,protein,vegan_protein,GreenGain,129.9,BRL,generic pea and rice protein blend,none,Vegan Protein Blend for muscle gain goals,"#vegan,#vegetarian,#gluten_free,#lactose_free",True,True
+P902,healthy_food,snack_bar,IronCore,12.5,BRL,generic protein bar with mixed nuts,"nuts,gluten",High-Protein Nut Bar for muscle gain goals,#vegetarian,True,True
+P903,protein,isolate,PureNutri,139.9,BRL,generic whey isolate formula,none,Nut-Free Whey Isolate for muscle gain goals,"#vegetarian,#gluten_free,#lactose_free",True,True
