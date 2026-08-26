@@ -79,13 +79,13 @@
 
 <br><br>
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [ What is HabitSync?](#-what-is-habitsync)
 - [Music, Meaning & Human-Centered AI](#-music-meaning--human-centered-ai)
   - [ The Musical Identity](#-the-musical-identity)
   - [ Human-Centered AI](#-human-centered-ai)
-  - [✨ The Core Message](#-the-core-message)
+  - [The Core Message](#-the-core-message)
 - [ How the Recommendation Engine Works](#-how-the-recommendation-engine-works)
 - [Phase 2 — Complete Architecture: NewVoiceHabits](#️-phase-2--complete-architecture-newvoicehabits)
   - [System Architecture](#system-architecture)
@@ -108,7 +108,7 @@
 
 <br><br>
 
-## 🎯 What is HabitSync?
+##  [What is HabitSync?]()
 
 
 HabitSync is an **AI agent** that recommends training and diet products — such as supplements, healthy food, and equipment — for **couples**, not just individuals.
@@ -127,7 +127,7 @@ The project began as an academic case study, **"Assistente Inteligente de Recome
 
 <br><br>
 
-## 🎼 Music, Meaning & Human-Centered AI
+##  [Music, Meaning & Human-Centered AI]()
 
 > **Harmony is not becoming the same.  
 > It is learning how to move together.**
@@ -136,11 +136,13 @@ HabitSync was designed around a simple human idea: two people do not need to hav
 
 The role of the AI is not to erase those differences.
 
-It is to **understand them, reconcile them, and find meaningful compatibility**.
+It is to [**understand them, reconcile them, and find meaningful compatibility**.]()
 
 This concept became part of the project's musical and visual identity through **Bach's Air**.
 
-### 🎼 The Musical Identity
+<br>
+
+###  [***The Musical Identity***]()
 
 **Air — Johann Sebastian Bach**  
 *Orchestral Suite No. 3, BWV 1068*
@@ -195,7 +197,7 @@ The result is a shared path designed around the realities of both profiles.
 
 <br><br>
 
-# 🏗️ Phase 2 — Complete Architecture: NewVoiceHabits
+# 🚧 Phase 2 — Complete Architecture: 
 
 With Phase 1 approved, HabitSync evolves into **NewVoiceHabits**, the architectural implementation of the recommendation agent.
 
