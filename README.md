@@ -65,7 +65,7 @@
 
 <!-- ========= START APP BADGE ========= -->
 <p align="center" style="margin: 0;">
-  <a href="https://effulgent-banoffee-ed032c.netlify.app/" rel="noopener noreferrer">
+  <a href="https://cosmic-granita-1684cf.netlify.app/" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/Live%20App-HabitSync-0f172a?style=for-the-badge&logo=netlify&logoColor=white" 
       alt="Live App HabitSync"
