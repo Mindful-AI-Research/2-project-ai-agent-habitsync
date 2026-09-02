@@ -65,17 +65,51 @@
 <!-- ========= END!WARNING ========= -->
 
 
-<!-- ========= START APP BADGE ========= -->
+<!-- ========= START Streamlit BADGE ========= -->
+
 <p align="center" style="margin: 0;">
-  <a href="https://cosmic-granita-1684cf.netlify.app/" rel="noopener noreferrer">
+  <a href="" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/Live%20App-HabitSync-0f172a?style=for-the-badge&logo=netlify&logoColor=white" 
-      alt="Live App HabitSync"
+      src="https://img.shields.io/badge/Streamlit%20Repository-Helipad%20Detector-1E293B?style=for-the-badge&logo=streamlit&logoColor=22D3EE&labelColor=1E293B&color=22D3EE" 
+      alt="Streamlit Repository Helipad Detector"
       style="height: 38px; width: auto;"
     />
   </a>
 </p>
-<!-- ========= END APP BADGE ========= -->
+<!-- ========= END Streamlit BADGE ========= -->
+
+<!-- ========= START React Presentation BADGE ========= -->
+
+<p align="center" style="margin: 0;">
+  <a href="https://scintillating-peony-b1f740.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/React%20Presentation-Slides%20and%20Overview-1E293B?style=for-the-badge&logo=react&logoColor=22D3EE&labelColor=1E293B&color=FF00FF"
+      alt="React Presentation Slides and Overview"
+      style="height: 32px; width: auto;"
+    />
+  </a>
+<!-- ========= END React Presentation BADGE ========= -->
+
+<!-- ========= START Data Analysis Report BADGE ========= -->
+  <a href="" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Data%20Analysis-Report%20and%20PDF-1E293B?style=for-the-badge&logo=github&logoColor=FF00FF&labelColor=1E293B&color=22D3EE" 
+      alt="Data Analysis Report and PDF"
+      style="height: 32px; width: auto;"
+    />
+  </a>
+</p>
+<!-- ========= END Data Analysis Report BADGE ========= -->
+
+<br><br>
+
+#
+
+<br><br>
+
+
+
+
 
 
 
